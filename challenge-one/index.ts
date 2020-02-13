@@ -1,3 +1,3 @@
 import { helloWorld } from './hello-world'; 
 
-export let greeting = helloWorld; 
+export let greeting = helloWorld(); 
