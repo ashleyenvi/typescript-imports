@@ -1,3 +1,4 @@
 import { helloWorld } from './hello-world'; 
 
-export let greeting = helloWorld(); 
+export const greeting: string = helloWorld(); 
+
